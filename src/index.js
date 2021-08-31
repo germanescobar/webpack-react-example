@@ -1,10 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import _ from 'lodash'
-
-function App() {
-  return <h1>Hola Mundo</h1>
-}
+import App from './App'
 
 ReactDOM.render(
   <React.StrictMode>
